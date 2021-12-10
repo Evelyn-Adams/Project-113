@@ -25,6 +25,6 @@ image(video,640,480,300,400);
     fill(0,0,280);
 }
 
-function take_snapshot(){
-save("image.png");
+function snapshot(){
+save('image.png');
 }
